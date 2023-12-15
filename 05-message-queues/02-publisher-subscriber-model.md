@@ -116,5 +116,3 @@ Explore broader concepts of event-driven architecture and its applications in sy
 ## Scalable Messaging Systems
 
 Delve into the design considerations and best practices for building scalable messaging systems.
-
-Feel free to use and adapt this markdown code for your README.md file in your project repository.
