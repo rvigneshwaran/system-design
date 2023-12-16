@@ -88,5 +88,3 @@ Anomaly detection is a crucial component of maintaining system reliability in De
 - **Real-time Monitoring Best Practices:**
 
   - Learn about best practices for implementing continuous monitoring in DevOps.
-
-Feel free to use and adapt this markdown code for your README.md file in your project repository.
